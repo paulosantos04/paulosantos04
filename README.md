@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Paulo Santos!  👋
+🇧🇷 🇪🇸
 
-<!--
-**paulosantos04/paulosantos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+Computer Science student and tech enthusiast. I focus on learning **Python** and **Modern Web Develop**. I am currently enhancing my skills in Machine Learning and Cybersecurity, with a goal of contributing to the world problems what I can help.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **Professional Portfolio and ML-based Accessibility Tools.**
+- 🌱 Learning: **Spanish Language and Cloud Infrastructure.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, VBA |
+| **Web** | Flask, Bootstrap |
+| **Tools** | Git, Docker, Vs Code, Bash Scripting |
+
+---
+
+### 🚀 Featured Projects
+1. **[LIBRAS Translator]**: Speech-to-Sign Language translation using Python & ML.
+2. **[Laundry Service Platform]**: A modern, responsive bussines solution built with Astro and Sanity.
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulosantos04&show_icons=true&theme=radical" alt="Paulo Stats"/>
+</p>
+
+[LINKEDIN](https://www.linkedin.com/in/paulo-santos-328981214/) [EMAIL](paulosantosdev@outlook.com) 
