@@ -50,9 +50,7 @@ Estudante de Ciência da Computação e entusiasta de tecnologia. Meu foco é ap
 
 Traduzido com a versão gratuita do tradutor - DeepL.com
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulosantos04&show_icons=true&theme=radical" alt="Paulo Stats"/>
-</p>
+### 📈 GitHub Stats / Estatísticas Github
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulosantos04&theme=dark)
 
 [LINKEDIN](https://www.linkedin.com/in/paulo-santos-328981214/) [EMAIL](paulosantosdev@outlook.com) 
