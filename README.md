@@ -1,5 +1,4 @@
 # Hi, I'm Paulo Santos!  👋
-🇧🇷 🇪🇸
 
 ### 👨‍💻 About Me
 Computer Science student and tech enthusiast. I focus on learning **Python** and **Modern Web Develop**. I am currently enhancing my skills in Machine Learning and Cybersecurity, with a goal of contributing to the world problems what I can help.
@@ -22,33 +21,7 @@ Computer Science student and tech enthusiast. I focus on learning **Python** and
 1. **[LIBRAS Translator]**: Speech-to-Sign Language translation using Python & ML.
 2. **[Laundry Service Platform]**: A modern, responsive bussines solution built with Astro and Sanity.
 
-_______________________________________________________________________________________________________________________________________________________________
-
-# Olá, sou o Paulo Santos!  👋
-🇧🇷 🇪🇸
-
-### 👨‍💻 Sobre mim
-Estudante de Ciência da Computação e entusiasta de tecnologia. Meu foco é aprender **Python** e **Desenvolvimento Web Moderno**. Atualmente, estou aprimorando minhas habilidades em Aprendizado de Máquina e Segurança Cibernética, com o objetivo de contribuir para resolver os problemas do mundo da maneira que puder.
-
-- 🔭 Atualmente trabalhando em: **Portfólio profissional e ferramentas de acessibilidade baseadas em Aprendizado de Máquina.**
-- 🌱 Aprendendo: **Língua Espanhola e Infraestrutura em Nuvem.**
-
 ---
-
-### 🛠 Pilha Tecnológica
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, SQL, VBA |
-| **Web** | Flask, Bootstrap |
-| **Ferramentas** | Git, Docker, Visual Studio Code, Bash Scripting |
-
----
-
-### 🚀 Projetos em destaque
-1. **[LIBRAS Translator]**: Tradução de fala para língua de sinais usando Python e ML.
-2. **[Plataforma de Serviço de Lavanderia]**: Uma solução empresarial moderna e responsiva construída com Astro e Sanity.
-
-Traduzido com a versão gratuita do tradutor - DeepL.com
 
 ### 📈 GitHub Stats / Estatísticas Github
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulosantos04&theme=dark)
