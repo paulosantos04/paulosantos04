@@ -18,8 +18,7 @@ Computer Science student and tech enthusiast. I focus on learning **Python** and
 ---
 
 ### 🚀 Featured Projects
-1. **[LIBRAS Translator]**: Speech-to-Sign Language translation using Python & ML.
-2. **[Laundry Service Platform]**: A modern, responsive bussines solution built with Astro and Sanity.
+1. **[Learning Python]**: Repository for make a guide of my journey with python.
 
 ---
 
